@@ -1,0 +1,5 @@
+1. hello 为hello world程序的elf可执行文件
+2. priv.pem 为开发者进行加密的私钥
+3. cert.crt 为开发者向公钥认证中心进行认证后的认证文件
+4. gen.py   为数字签名工具
+5. ver.py   为验证签名工具
